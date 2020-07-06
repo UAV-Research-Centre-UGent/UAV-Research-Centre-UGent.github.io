@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/author/alain-de-wulf/</loc>
+  </url>
+  
+  <url>
     <loc>/authors/</loc>
   </url>
   
@@ -11,11 +15,23 @@
   </url>
   
   <url>
+    <loc>/author/heidi-steendam/</loc>
+  </url>
+  
+  <url>
     <loc>/author/hiep-luong/</loc>
   </url>
   
   <url>
+    <loc>/author/kathy-steppe/</loc>
+  </url>
+  
+  <url>
     <loc>/author/michiel-vlaminck/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/philippe-de-maeyer/</loc>
   </url>
   
   <url>
