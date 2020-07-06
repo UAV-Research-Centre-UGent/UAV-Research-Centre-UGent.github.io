@@ -3,15 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
-  </url>
-  
-  <url>
     <loc>/authors/</loc>
   </url>
   
   <url>
     <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/hiep-luong/</loc>
   </url>
   
   <url>
@@ -35,11 +35,23 @@
   </url>
   
   <url>
+    <loc>/author/rene-heim/</loc>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
   </url>
   
   <url>
-    <loc>/author/uav-research-center/</loc>
+    <loc>/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/uav-research-centre/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/wouter-maes/</loc>
   </url>
   
 </urlset>
