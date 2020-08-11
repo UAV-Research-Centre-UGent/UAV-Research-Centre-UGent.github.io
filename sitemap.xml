@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/project/comp-4-drones/</loc>
+    <lastmod>2020-08-10T11:27:26+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2020-08-10T11:27:26+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-08-10T11:27:26+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/analyst-pv/</loc>
+    <lastmod>2020-08-10T11:19:54+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/author/alain-de-wulf/</loc>
   </url>
   
@@ -15,6 +35,10 @@
   </url>
   
   <url>
+    <loc>/author/gonzalo-luzardo/</loc>
+  </url>
+  
+  <url>
     <loc>/author/heidi-steendam/</loc>
   </url>
   
@@ -23,7 +47,19 @@
   </url>
   
   <url>
+    <loc>/author/jana-wieme/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/jhon-jairo-vega-diaz/</loc>
+  </url>
+  
+  <url>
     <loc>/author/kathy-steppe/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/louis-daniels/</loc>
   </url>
   
   <url>
@@ -56,10 +92,6 @@
   
   <url>
     <loc>/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>/</loc>
   </url>
   
   <url>
