@@ -5,12 +5,21 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 10 Aug 2020 11:27:26 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 12 Aug 2020 21:54:17 +0200</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
       <link>/project/</link>
     </image>
+    
+    <item>
+      <title>Bof Startup</title>
+      <link>/project/bof-startup/</link>
+      <pubDate>Wed, 12 Aug 2020 21:54:17 +0200</pubDate>
+      <guid>/project/bof-startup/</guid>
+      <description>&lt;p&gt;With UAV snapshot cameras, the same area is observed manifold and under a variety of different viewing angles. The standard UAV image processing software only use one of these observations to create the orthophotos – all other observations are discarded. Yet, these multi-angular data actually reveal very relevant information on canopy properties. In this project, we use the full multi-angular observation to generate maps of leaf area and chlorophyll content, two parameters of immediate use for precision agriculture applications.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>COMP4DRONES</title>
