@@ -13,11 +13,11 @@
     </image>
     
     <item>
-      <title>Using multiangular information for accurate acquisition of leaf area and chlorophyll content</title>
-      <link>/project/bof-startup/</link>
+      <title>SMAC</title>
+      <link>/project/smac/</link>
       <pubDate>Wed, 12 Aug 2020 21:54:17 +0200</pubDate>
-      <guid>/project/bof-startup/</guid>
-      <description>&lt;p&gt;With UAV snapshot cameras, the same area is observed manifold and under a variety of different viewing angles. The standard UAV image processing software only use one of these observations to create the orthophotos – all other observations are discarded. Yet, these multi-angular data actually reveal very relevant information on canopy properties. In this project, we use the full multi-angular observation to generate maps of leaf area and chlorophyll content, two parameters of immediate use for precision agriculture applications.&lt;/p&gt;
+      <guid>/project/smac/</guid>
+      <description>&lt;p&gt;With UAV snapshot cameras, the same area is observed manifold and under a variety of different viewing angles. The standard UAV image processing software only use one of these observations to create the orthophotos – all other observations are discarded. Yet, these multi-angular data actually reveal very relevant information on canopy properties. In the SMAC (Simultaneous Measurements of leaf Area and Chlorophyll) project, we use the full multi-angular observation to generate maps of leaf area and chlorophyll content, two parameters of immediate use for precision agriculture applications.&lt;/p&gt;
 </description>
     </item>
     
