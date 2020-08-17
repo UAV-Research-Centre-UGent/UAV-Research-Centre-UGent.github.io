@@ -36,7 +36,7 @@
       <pubDate>Mon, 10 Aug 2020 11:19:54 +0200</pubDate>
       <guid>/project/analyst-pv/</guid>
       <description>&lt;p&gt;ANALYST PV is an imec.icon research project funded by imec, Innoviris and Agentschap Innoveren &amp;amp; Ondernemen. It started on 01.10.2019 and is set to run until 30.09.2021.&lt;/p&gt;
-&lt;p&gt;The ANALYST PV project will develop a fault diagnosis framework that relies on IoT sensors, AI-enabled root cause analysis and automatic image analysis. The ultimate goal is to optimize photovoltaic asset management and performance.&lt;/p&gt;
+&lt;p&gt;The ANALYST PV project will develop a fault diagnosis framework for PV power plants that relies on IoT sensors, AI-enabled root cause analysis and automatic image analysis. The ultimate goal is to optimize photovoltaic asset management and performance.&lt;/p&gt;
 &lt;p&gt;Our work in the project consists of developing image processing techniques to detect and classify anomalies that occur on solar panels including bypass substrings, junction box issues, diode issues, string issues and potential induced defects (PID). We also aim at improving structure from motion algorithms in a way that they can better deal with the repetitive patterns present in UAV imagery of PV power plants.&lt;/p&gt;
 </description>
     </item>
