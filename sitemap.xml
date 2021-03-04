@@ -1,126 +1,68 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>/project/</loc>
     <lastmod>2020-08-12T21:54:17+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/smac/</loc>
     <lastmod>2020-08-12T21:54:17+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/</loc>
     <lastmod>2020-08-12T21:54:17+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/comp-4-drones/</loc>
     <lastmod>2020-08-10T11:27:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/analyst-pv/</loc>
     <lastmod>2020-08-10T11:19:54+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/alain-de-wulf/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/charles-hamesse/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/gonzalo-luzardo/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/heidi-steendam/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/hiep-luong/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/jana-wieme/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/jhon-jairo-vega-diaz/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/kathy-steppe/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/laurens-diels/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/louis-daniels/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/michiel-vlaminck/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/philippe-de-maeyer/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication_types/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/rene-heim/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/uav-research-centre/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/wilfried-philips/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/wouter-maes/</loc>
   </url>
-  
 </urlset>
