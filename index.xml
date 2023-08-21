@@ -5,12 +5,31 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>UAV Research Centre</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 26 Jan 2022 17:25:59 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Aug 2023 11:51:25 +0200</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>UAV Research Centre</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>GOOD</title>
+      <link>/project/good/</link>
+      <pubDate>Mon, 21 Aug 2023 11:51:25 +0200</pubDate>
+      <guid>/project/good/</guid>
+      <description>&lt;p&gt;GOOD is a Horizon Europe project that aims to co-create, test, assess and demonstrate innovative and sustainable Agroecological Weed Management (AWM) solutions &amp;amp; to encourage a long-term and large-scale transition to sustainable biodiversity-based agri-food systems through the development of the first Agroecological Weed Management Network (AWMN). We are involved to develop a method that can automatically identify, classify and map weeds based on high resolution RGB and multispectral drone imagery.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FOLOU</title>
+      <link>/project/folou/</link>
+      <pubDate>Mon, 21 Aug 2023 11:44:33 +0200</pubDate>
+      <guid>/project/folou/</guid>
+      <description>&lt;p&gt;FOLOU is a Horizon Europe projected focusing on monitoring and reducing food losses. More information on the project can be found on 
+&lt;a href=&#34;https://www.folou.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the project website&lt;/a&gt;. As one of the project partners, the URC is coordinating a work package on the development and validation of innovative tools to measure and estimate food losses. We will directly measurements of yield and yield losses in fruit orchards and vegetables, using high resolution RGB drone images. Further, we will also contribute to estimating yield losses in potato with remote sensing technology.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>CLIMABIS</title>
